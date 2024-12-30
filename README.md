@@ -1,9 +1,13 @@
 ## 👋 Hi there, Welcome to my Github Profile 🚀
 I love continuously learning, solving problems, and collaborating on new projects. I currently work at Le Wagon as a Web Development and Data Analytics teacher.
 
+
+
 ||Wev Dev|Data Analytics|
 |-|-|-|
 |Tools|Ruby, OOP, Rspec, HTML, CSS, Bootstrap, Ruby on Rails, Stimulus, Turbo, React, Next.js, Vue, Postgres|Google Sheets, Excel, SQL, GTM, Zapier, Fivetran, DBT, Looker Studio, Power BI, Python, Machine Learning, Pandas, Plotly, Tableau|
+
+
 
 ### LinkedIn
 💼 [LinkedIn](https://www.linkedin.com/in/enrique-ramirez-ramos/)
